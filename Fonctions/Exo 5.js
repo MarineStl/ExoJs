@@ -1,4 +1,4 @@
-function Concatenation (nbr, chaine) {
+function Concatenation (nbr, chaine)  {
 
 return "nbr, chaine"
 

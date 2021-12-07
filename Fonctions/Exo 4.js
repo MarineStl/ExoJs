@@ -1,4 +1,4 @@
-function mafunction (a,b) {
+function mafunction (a,b)  {
 if (a > b) {
 return "Le premier nombre est plus grand"
 }
